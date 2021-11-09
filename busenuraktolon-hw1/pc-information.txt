@@ -1,0 +1,265 @@
+laptop-7277t8nl\bilgisayar
+
+C:\Users\Bilgisayar\OneDrive\MasaÅstÅ\Yeni klasîr (2) 
+
+ûu Windows hizmetleri baülatçldç:
+
+   Agent Activation Runtime_3573f65
+   Ana Bilgisayarç Eüitle_3573f65
+   AppX Deployment Service (AppXSVC)
+   Arka Plan Akçllç Aktarçm Hizmeti
+   Arka Plan Gîrevleri Altyapç Hizmeti
+   AVCTP hizmeti
+   Aygçt òliükisi Hizmeti
+   Aß Baßlantçlarç
+   Aß Baßlantçlç Cihazlarçn Otomatik Kurulumu
+   Aß Baßlantçsç Aracçsç
+   Aß Depo Arabirimi Hizmeti
+   Aß Konumu Tançma
+   Aß Listesi Hizmeti
+   Baßlç Cihazlar Platformu Hizmeti
+   Baßlç Cihazlar Platformu Kullançcç Hizmeti_3573f65
+   Baßlç Kullançcç Deneyimleri ve Telemetrisi
+   CNG Anahtar Yalçtçmç
+   COM+ Olay Sistemi
+   CoreMessaging
+   Coßrafi Konum Hizmeti
+   Daßçtçlmçü Baßlantç òzleme òstemcisi
+   DCOM Sunucusu òülem Baülatçcçsç
+   Depolama Hizmeti
+   DHCP òstemcisi
+   DNS òstemcisi
+   Dokunmatik Klavyeyi ve El Yazçsç Paneli Hizmeti
+   Dolby DAX API Service
+   Durum Depo Hizmeti
+   ELAN Service
+   Fortemedia APO Control Service
+   Geniületilebilir Kimlik Doßrulama ProtokolÅ
+   Grup òlkesi òstemcisi
+   Gîrev Zamanlayçcç
+   GîrÅntÅ òyileütirme Hizmeti
+   GÅvenli Yuva TÅnel ProtokolÅ Hizmeti
+   GÅvenlik Hesaplarç Yîneticisi
+   GÅvenlik Merkezi
+   GÅá
+   IKE ve AuthIP IPsec Anahtarlama ModÅlleri
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Dynamic Application Loader Host Interface Service
+   Intel(R) Dynamic Tuning service
+   Intel(R) Graphics Command Center Service
+   Intel(R) HD Graphics Control Panel Service
+   Intel(R) Storage Middleware Service
+   IP Yardçmcçsç
+   Kablosuz Yerel Aß Otomatik Yapçlandçrma
+   Kabuk Donançm Algçlamasç
+   Kaliteli Windows Ses Video Deneyim
+   Kimlik Bilgisi Yîneticisi
+   Kiüi Verileri_3573f65
+   Kullançcç Profili Hizmeti
+   Kullançcç Verilerine Eriüim_3573f65
+   Kullançcç Verilerini Depolama_3573f65
+   Kullançcç Yîneticisi
+   Lenovo Notebook ITS Service
+   LenovoVantageService
+   McAfee AP Service
+   McAfee CSP Service
+   McAfee Module Core Service
+   McAfee PEF Service
+   McAfee Service Controller
+   McAfee Validation Trust Protection Service
+   McAfee WebAdvisor
+   Microsoft Defender VirÅsten Koruma Aß ònceleme Hizmeti
+   Microsoft Defender VirÅsten Koruma Hizmeti
+   Microsoft Depolama Alanlarç SMP
+   Microsoft Hesabç Oturum Aáma Yardçmcçsç
+   Microsoft Office Click-to-Run Service
+   Microsoft Store YÅkleme Hizmeti
+   Orchestrator Hizmeti'ni GÅncelleütir
+   Pano Kullançcç Hizmeti_3573f65
+   Program Uyumluluk Yardçmcçsç Hizmeti
+   Radyo Yînetimi Hizmeti
+   Realtek Audio Universal Service
+   Realtek Bluetooth Device Manager Service
+   RPC Bitiü Noktasç Eüleütiricisi
+   Sistem Etkinlikleri Aracçsç
+   Sistem Olay Bildirim Hizmeti
+   SQL Server VSS Writer
+   SSDP Bulma
+   Sunucu
+   SysMain
+   System Guard Äalçüma Zamanç òzleyicisi Aracçsç
+   System Interface Foundation Service
+   Tak ve Kullan
+   Tanç òlkesi Hizmeti
+   Tançlama Hizmeti Ana Bilgisayarç
+   Tançlama Sistemi Ana Bilgisayarç
+   TCP/IP NetBIOS Yardçmcçsç
+   Telefon
+   Temalar
+   Temel Filtre Altyapçsç
+   Teslim En òyileütirme
+   Uygulama Bilgileri
+   Uzaktan Eriüim Baßlantç Yîneticisi
+   Uzaktan Yordam Äaßrçsç (RPC)
+   Veri Kullançmç
+   Web Hesap Yîneticisi
+   WebClient
+   Windows Ançnda òletme Bildirimleri Hizmeti
+   Windows Ançnda òletme Bildirimleri Kullançcç Hizmeti_3573f65
+   Windows Baßlantç Yîneticisi
+   Windows Biyometrik Hizmeti
+   Windows Defender GÅvenlik Duvarç
+   Windows GÅvenlißi Hizmeti
+   Windows Lisans Yîneticisi Hizmeti
+   Windows Olay GÅnlÅßÅ
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Resim Alma (WIA)
+   Windows Search
+   Windows Ses
+   Windows Ses Bitiü Noktasç Oluüturucu
+   Windows Update
+   Windows Update Medic Hizmeti
+   Windows Yazç Tipi ônbelleßi Hizmeti
+   Windows Yînetim Yardçmcçlarç
+   WinHTTP Web Proxy Otomatik Bulma Hizmeti
+   Yazdçrma Biriktiricisi
+   Yerel Oturum Yîneticisi
+   Yetenek Eriüim Yîneticisi Hizmeti
+   Zaman Aracçsç
+   ôdeme ve NFC/SE Yîneticisi
+   òlke Hizmetini GîrÅntÅle
+   òstemci Lisans Hizmeti (ClipSVC)
+   òü òstasyonu
+   òülev Bulma Kaynak Yayçmç
+   òülev Bulma Saßlayçcçsç Ana Bilgisayarç
+   ûifreleme Hizmetleri
+
+Komut baüarçyla tamamlandç.
+
+
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    172.20.10.10:49544     162.159.133.234:443    ESTABLISHED
+  TCP    172.20.10.10:49551     20.199.120.85:443      ESTABLISHED
+  TCP    172.20.10.10:49579     216.239.38.120:443     ESTABLISHED
+  TCP    172.20.10.10:49583     216.239.38.120:443     ESTABLISHED
+  TCP    172.20.10.10:49585     216.239.38.120:443     ESTABLISHED
+  TCP    172.20.10.10:49610     108.177.119.108:993    CLOSE_WAIT
+  TCP    172.20.10.10:49611     108.177.119.108:993    CLOSE_WAIT
+  TCP    172.20.10.10:49613     142.250.187.170:443    CLOSE_WAIT
+  TCP    172.20.10.10:49614     52.97.137.226:443      ESTABLISHED
+  TCP    172.20.10.10:49629     20.199.120.85:443      ESTABLISHED
+  TCP    172.20.10.10:51637     172.217.17.238:443     ESTABLISHED
+  TCP    172.20.10.10:51639     216.58.214.131:443     ESTABLISHED
+  TCP    172.20.10.10:51640     216.239.38.120:443     ESTABLISHED
+  TCP    172.20.10.10:51646     104.16.202.237:443     ESTABLISHED
+  TCP    172.20.10.10:51649     142.250.184.131:443    ESTABLISHED
+  TCP    172.20.10.10:51650     216.58.214.131:443     ESTABLISHED
+  TCP    172.20.10.10:51651     104.16.95.65:443       ESTABLISHED
+  TCP    172.20.10.10:51656     52.84.112.222:443      ESTABLISHED
+  TCP    172.20.10.10:51657     104.19.214.37:443      ESTABLISHED
+  TCP    172.20.10.10:51658     216.58.214.138:443     ESTABLISHED
+  TCP    172.20.10.10:51660     216.58.214.138:443     ESTABLISHED
+  TCP    172.20.10.10:51661     161.69.92.71:443       ESTABLISHED
+  TCP    172.20.10.10:51662     161.69.92.71:443       ESTABLISHED
+  TCP    172.20.10.10:51663     161.69.92.71:443       ESTABLISHED
+  TCP    172.20.10.10:51665     216.58.214.138:443     ESTABLISHED
+  TCP    172.20.10.10:51668     104.17.166.186:443     ESTABLISHED
+  TCP    172.20.10.10:51671     173.194.69.154:443     ESTABLISHED
+  TCP    172.20.10.10:51681     142.250.187.130:443    ESTABLISHED
+  TCP    172.20.10.10:51683     104.19.214.37:443      ESTABLISHED
+  TCP    172.20.10.10:51685     104.17.166.186:443     ESTABLISHED
+  TCP    172.20.10.10:51691     142.250.187.98:443     ESTABLISHED
+  TCP    172.20.10.10:51693     172.217.17.202:443     ESTABLISHED
+  TCP    172.20.10.10:51694     185.64.189.112:443     ESTABLISHED
+  TCP    172.20.10.10:51696     35.244.159.8:443       ESTABLISHED
+  TCP    172.20.10.10:51697     142.250.187.98:443     TIME_WAIT
+  TCP    172.20.10.10:51698     2.18.103.237:443       ESTABLISHED
+  TCP    172.20.10.10:51699     142.250.187.97:443     ESTABLISHED
+  TCP    172.20.10.10:51700     172.217.169.161:443    ESTABLISHED
+  TCP    172.20.10.10:51701     91.228.74.134:443      ESTABLISHED
+  TCP    172.20.10.10:51703     216.58.206.162:443     ESTABLISHED
+  TCP    172.20.10.10:51705     52.84.114.28:443       ESTABLISHED
+  TCP    172.20.10.10:51706     91.228.74.134:443      ESTABLISHED
+  TCP    172.20.10.10:51707     52.84.114.43:443       ESTABLISHED
+  TCP    172.20.10.10:51723     35.212.101.174:443     ESTABLISHED
+  TCP    172.20.10.10:51726     216.58.214.130:443     ESTABLISHED
+  TCP    172.20.10.10:51727     104.18.12.5:443        ESTABLISHED
+  TCP    172.20.10.10:51728     35.212.101.174:443     TIME_WAIT
+  TCP    172.20.10.10:51731     92.223.27.99:443       ESTABLISHED
+  TCP    172.20.10.10:51732     92.223.27.99:443       TIME_WAIT
+  TCP    172.20.10.10:51733     142.250.187.130:443    TIME_WAIT
+  TCP    172.20.10.10:51734     216.239.38.120:443     ESTABLISHED
+  TCP    172.20.10.10:51738     92.223.51.163:443      TIME_WAIT
+  TCP    172.20.10.10:51740     185.64.190.78:443      ESTABLISHED
+  TCP    172.20.10.10:51741     142.250.187.174:443    ESTABLISHED
+  TCP    172.20.10.10:51747     185.64.189.110:443     ESTABLISHED
+  TCP    172.20.10.10:51748     198.47.127.20:443      ESTABLISHED
+  TCP    172.20.10.10:51751     13.107.42.12:443       TIME_WAIT
+  TCP    172.20.10.10:51752     13.107.42.12:443       TIME_WAIT
+  TCP    172.20.10.10:51753     172.217.169.130:443    ESTABLISHED
+  TCP    172.20.10.10:51754     172.217.169.130:443    TIME_WAIT
+  TCP    172.20.10.10:51755     216.239.38.120:443     TIME_WAIT
+  TCP    172.20.10.10:51756     20.189.173.5:443       TIME_WAIT
+  TCP    172.20.10.10:51762     68.66.213.242:443      CLOSE_WAIT
+  TCP    172.20.10.10:51765     52.6.92.192:443        ESTABLISHED
+  TCP    172.20.10.10:51766     52.6.92.192:443        ESTABLISHED
+  TCP    172.20.10.10:51767     23.55.53.216:443       ESTABLISHED
+  TCP    172.20.10.10:51768     23.55.53.216:443       ESTABLISHED
+  TCP    172.20.10.10:51771     23.55.52.242:443       ESTABLISHED
+  TCP    172.20.10.10:51773     185.33.221.52:443      CLOSE_WAIT
+  TCP    172.20.10.10:51774     23.55.52.242:443       ESTABLISHED
+  TCP    172.20.10.10:51777     23.55.53.216:443       ESTABLISHED
+  TCP    172.20.10.10:51782     52.48.136.43:443       CLOSE_WAIT
+  TCP    172.20.10.10:51783     52.48.136.43:443       CLOSE_WAIT
+  TCP    172.20.10.10:51784     23.55.52.49:443        ESTABLISHED
+  TCP    172.20.10.10:51788     52.198.4.47:443        CLOSE_WAIT
+  TCP    172.20.10.10:51789     216.58.214.134:443     ESTABLISHED
+  TCP    172.20.10.10:51790     216.58.214.134:443     ESTABLISHED
+  TCP    172.20.10.10:51798     172.217.169.134:443    ESTABLISHED
+  TCP    172.20.10.10:51802     40.126.32.99:443       TIME_WAIT
+  TCP    172.20.10.10:51804     161.69.92.71:443       ESTABLISHED
+  TCP    172.20.10.10:51806     104.208.16.0:443       ESTABLISHED
+  TCP    172.20.10.10:51807     20.82.217.86:443       ESTABLISHED
+  TCP    172.20.10.10:51813     13.107.42.12:443       ESTABLISHED
+  TCP    172.20.10.10:51815     13.107.42.12:443       ESTABLISHED
+  TCP    172.20.10.10:51816     13.107.42.13:443       TIME_WAIT
+  TCP    172.20.10.10:51821     13.107.138.9:443       TIME_WAIT
+  TCP    172.20.10.10:51824     52.168.112.67:443      ESTABLISHED
+  TCP    172.20.10.10:51825     13.107.138.9:443       TIME_WAIT
+  TCP    172.20.10.10:51826     13.107.42.12:443       ESTABLISHED
+  TCP    172.20.10.10:51827     20.189.173.5:443       LAST_ACK
+  TCP    172.20.10.10:64423     20.199.120.85:443      ESTABLISHED
+
+LAPTOP-7277T8NL
+
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Yerel Aß Baßlantçsç* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Yerel Aß Baßlantçsç* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::29b7:63ae:4173:606d%7
+   IPv4 Address. . . . . . . . . . . : 172.20.10.10
+   Subnet Mask . . . . . . . . . . . : 255.255.255.240
+   Default Gateway . . . . . . . . . : 172.20.10.1
+
+Available Physical Memory: 3.013 MB
+
+Availability  BytesPerSector  Capabilities  CapabilityDescriptions                 Caption                     CompressionMethod  ConfigManagerErrorCode  ConfigManagerUserConfig  CreationClassName  DefaultBlockSize  Description  DeviceID            ErrorCleared  ErrorDescription  ErrorMethodology  FirmwareRevision  Index  InstallDate  InterfaceType  LastErrorCode  Manufacturer            MaxBlockSize  MaxMediaSize  MediaLoaded  MediaType              MinBlockSize  Model                       Name                NeedsCleaning  NumberOfMediaSupported  Partitions  PNPDeviceID                                                   PowerManagementCapabilities  PowerManagementSupported  SCSIBus  SCSILogicalUnit  SCSIPort  SCSITargetId  SectorsPerTrack  SerialNumber          Signature  Size          Status  StatusInfo  SystemCreationClassName  SystemName       TotalCylinders  TotalHeads  TotalSectors  TotalTracks  TracksPerCylinder  
+              512             {3, 4}        {"Random Access", "Supports Writing"}  SKHynix_HFM512GDHTNI-87A0B                     0                       FALSE                    Win32_DiskDrive                      Disk drive   \\.\PHYSICALDRIVE0                                                    11010C00          0                   SCSI                          (Standard disk drives)                              TRUE         Fixed hard disk media                SKHynix_HFM512GDHTNI-87A0B  \\.\PHYSICALDRIVE0                                         3           SCSI\DISK&VEN_NVME&PROD_SKHYNIX_HFM512GD\5&1483635E&1&000000                                                         0        0                0         0             63               ACE4_2E00_05BA_07F5.             512105932800  OK                  Win32_ComputerSystem     LAPTOP-7277T8NL  62260           255         1000206900    15876300     255                
+
+
